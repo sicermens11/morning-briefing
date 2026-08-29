@@ -1,0 +1,13 @@
+{
+  "name": "깜댕의 주식 브리핑",
+  "short_name": "주식 브리핑",
+  "start_url": "/morning-briefing/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/morning-briefing/IMG_2751.png",
+      "sizes": "420x420",
+      "type": "image/png"
+    }
+  ]
+}
